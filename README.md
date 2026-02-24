@@ -9,12 +9,14 @@ The project consist of the following elements:
 ## Water turbine 
 A water turbine is capable to generate max 12 V, 100 mA output under 1.2 MPa pressure. [1]
 ## Regulator
-A voltage regulator is lowering the voltage to stable 5 V
+A voltage regulator is lowering the voltage to stable 5 V [2]
 ## USB outlets
 Charger is equiped with a standard USB-A and USB-C outlets, for plugging in smartphones and other devices.
 # State of the art 
-The water charger consists of 2 containsers connected to each other by waterproof wire. One box contain the turbine and pipes while the other one contain electronics. The turbine should be placed in river and the electronis should be placed in dry place. Then the to the second box, one can plug in some device to be charged.
+The water charger consists of 2 containsers connected to each other by waterproof wire. One box contain the turbine and pipes while the other one contain electronics. The turbine should be placed in river and the electronis should be placed in dry area. Then the to the second box, one can plug in some device to be charged.
 # What next?
-Text here... 
+The maximal output current is 100 mA. It is not enough to start charging phone. The project should be extended by connecting more turbines (at lest 5) parellelly. Every turbines should be equipped with its own voltage stabliser to avoid reverse current. It will increase current to 500mA witch is enough to start charging phone. Also projects of boxes can be rearranged. The one with turbine should be equipped with seal. In the one with electronics there should be added a platform to screw on a USB outlet.
 # Sources 
-- [Writing on GitHub] ( https://docs.github.com/en/get-started/writing-on-github )
+[1]
+[2]
+[3]
