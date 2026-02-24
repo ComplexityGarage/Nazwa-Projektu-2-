@@ -7,9 +7,11 @@
 # Science and tech used 
 The project consist of the following elements:
 ## Water turbine 
+
 | The turbine|
 | --- |
 | ![The turbine](turbina.jpg) |
+
 A small water turbine, capable to generate max 12 V, 100 mA output under 1.2 MPa pressure. [1]
 ## Regulator
 A voltage regulator is lowering the voltage to a stable 5 V [2]
