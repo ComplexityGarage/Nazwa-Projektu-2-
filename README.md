@@ -18,7 +18,7 @@ A small water turbine, capable of generating a max 12 V, 100 mA output under 1.2
 | --- |
 | ![](regulator.jpg) |
 
-A voltage regulator, lowering the voltage to a stable 5 V [2]
+A voltage regulator, lowering the voltage to a stable 5 V
 
 ## USB outlets
 Standard USB-A and USB-C outlets, for plugging in smartphones and other devices.
@@ -39,3 +39,4 @@ The two boxes were 3D printed using the Prusa printer available in the Garage. T
 The max output current is 100 mA, which is insufficient to charge a smartphone.The plan is currently to expand the project by connecting at least five turbines as parallel circuits. Every turbine should be equipped with its own voltage stabiliser to avoid reverse current. Another solution would be to build a custom water turbine capable of producing a larger current; possibly with custom 3D printed elements. The wet box should be sealed to make it more waterproof; while the dry box should be expanded to fit the USB outlets. 
 # Sources 
 The information presented comes from experimentations performed by the authors
+[1] https://www.edn.com/hydro-generator/
